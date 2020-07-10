@@ -8,6 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <center> <h1>heading 1</h1> </center>
 I was born in Mexcio but for natural born coder there is no barriers. Inquisitive, self-motivated computer science specialist skilled in programing, leadership and digital businesses
 
+
+# This is an <h1> tag
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
