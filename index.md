@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Introduction
 
-I was born in Mexcio but for natural born coder there is no barriers. 
+I was born in Mexcio but for natural born coder there is no barriers. Inquisitive, self-motivated computer science specialist skilled in programing, leadership and digital businesses
 
 ### Markdown
 
